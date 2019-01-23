@@ -7,13 +7,6 @@
   "bugs": {
     "url": "https://github.com/MrRio/jsPDF/issues"
   },
-  "files": [
-    "dist/jspdf.debug.js",
-    "dist/jspdf.min.js",
-    "dist/jspdf.node.debug.js",
-    "dist/jspdf.node.min.js",
-    "README.md"
-  ],
   "keywords": [
     "pdf"
   ],
